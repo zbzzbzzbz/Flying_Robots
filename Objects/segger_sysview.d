@@ -1,0 +1,12 @@
+.\objects\segger_sysview.o: SEGGER\SEGGER_SYSVIEW.c
+.\objects\segger_sysview.o: D:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\segger_sysview.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\segger_sysview.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\segger_sysview.o: SEGGER\SEGGER_SYSVIEW_Int.h
+.\objects\segger_sysview.o: SEGGER\SEGGER_SYSVIEW.h
+.\objects\segger_sysview.o: SEGGER\SEGGER.h
+.\objects\segger_sysview.o: SEGGER\Global.h
+.\objects\segger_sysview.o: SEGGER\SEGGER_SYSVIEW_ConfDefaults.h
+.\objects\segger_sysview.o: SEGGER\SEGGER_SYSVIEW_Conf.h
+.\objects\segger_sysview.o: SEGGER\SEGGER_RTT_Conf.h
+.\objects\segger_sysview.o: SEGGER\SEGGER_RTT.h
